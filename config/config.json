@@ -1,1 +1,6 @@
-
+{
+    "token": "TOKEN_DO_BOT",
+    "prefix": "!",
+    "userID": "ID_DO_BOT",
+    "disableEveryone": false
+}
