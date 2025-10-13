@@ -32,7 +32,7 @@ Este bot é destinado **apenas para fins educacionais**. O uso malicioso em serv
 
 ### Configuração
 
-1. **Clone o repositório:**
+1. **Não tem segredo:**
 ```bash
 git clone https://github.com/deusdomedo/RAID-DISCORD.git
 cd RAID-DISCORD
@@ -40,3 +40,4 @@ npm install
 cd src
 node index.js
 ```
+2. **Se for usar no Windows, depois do 'npm instal' use o neverland.bat**
