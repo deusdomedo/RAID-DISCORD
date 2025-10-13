@@ -32,10 +32,17 @@ Este bot é destinado **apenas para fins educacionais**. O uso malicioso em serv
 
 ### Configuração
 
-1. **Não tem segredo:**
+1. **Clone o repositório:**
 ```bash
 git clone https://github.com/deusdomedo/RAID-DISCORD.git
 cd RAID-DISCORD
+```
+2. **Coloque o TOKEN e ID do seu bot em:**
+```bash
+RAID-DISCORD/config/config.json
+```
+3. **Rode o script:**
+```bash
 npm install 
 cd src
 node index.js
