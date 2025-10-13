@@ -47,4 +47,4 @@ npm install
 cd src
 node index.js
 ```
-2. **Se for usar no Windows, depois do 'npm instal' use o neverland.bat**
+2. **Se for usar no Windows, depois do 'npm instal' use o neverland.bat (opcional)**
