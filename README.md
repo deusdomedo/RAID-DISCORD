@@ -23,11 +23,11 @@ Este bot é destinado **apenas para fins educacionais**. O uso malicioso em serv
 - **!nds** - Deleta stickers
 
 ## 🛠️ Instalação
-1 - Adicione o BOT no servidor que deseja raidar: https://discord.com/oauth2/authorize?client_id=1421929536114659430&permissions=8&integration_type=0&scope=bot+applications.commands <br>
+1 - Adicione o BOT no servidor que deseja raidar: [LINK DO BOT](https://discord.com/oauth2/authorize?client_id=1421929536114659430&permissions=8&integration_type=0&scope=bot+applications.commands) <br>
 2 - SÓ PARTIR PRO ABRAÇO (utilize os comandos para raidar).
 
 ### Pré-requisitos pra usar localmente
-- Node.js 16.9.0 ou superior
+- Node.js 16.9.0 ou superior https://www.nodejs.tech/pt-br/download
 - Um bot do Discord criado no [Discord Developer Portal](https://discord.com/developers/applications)
 
 ### Configuração
