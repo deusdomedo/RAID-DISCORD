@@ -1,10 +1,4 @@
-# Neverland BOT RAID DISCORD 🤖
-
-## ⚠️ Aviso Importante
-
-Este bot é destinado **apenas para fins educacionais**. O uso malicioso em servidores sem permissão pode violar os **Termos de Serviço do Discord** e resultar em banimento. Use com responsabilidade!
-
-## 🚀 Características
+# Neverland BOT RAID DISCORD
 
 ### Comandos Principais
 - **!nv** - Cria canais e envia mensagens com @everyone
